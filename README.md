@@ -1,11 +1,23 @@
-# RobotOpen-HTML5-DriverStation
-{Description}
+# ___RobotOpen-HTML5-DriverStation___
 
-Usage
+## Team 708 fork of Team 221's Driver Station Chrome based App for their Gorgon Flex Robot Controller
 
-Install
+## ___Usage___
 
-1)
-2)
+>
 
-Updating
+## ___Install___
+
+>
+
+### Method 1 : Zip Download
+
+>
+
+### Method 2 : .crx File
+
+>
+
+## ___Updating___
+
+>
