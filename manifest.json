@@ -1,8 +1,8 @@
 {
-  "name": "RobotOpen DS",
-  "description": "RobotOpen DS Chrome App",
-  "version": "0.0.15",
-  "manifest_version": 2,
+  "name": "RobotOpen DS 708",
+  "description": "Forked and maintained Robot Open Driver Station",
+  "version": "1.0.0",
+  "manifest_version": 3,
   "minimum_chrome_version": "24",
 
   "permissions": [
@@ -21,7 +21,7 @@
   },
 
   "icons": { 
-    "128": "logo.png",
+    "128": "logo-128.png",
     "48": "logo-48.png",
     "16": "logo-16.png"
   }
