@@ -1,4 +1,6 @@
-# ___RobotOpen-HTML5-DriverStation___ [![Build Status](https://app.travis-ci.com/moral-g/RobotOpen-HTML5-DriverStation.svg?branch=master)](https://app.travis-ci.com/moral-g/RobotOpen-HTML5-DriverStation)
+# ___RobotOpen-HTML5-DriverStation___ 
+![build](https://img.shields.io/badge/build-passing-blue) ![author](https://img.shields.io/badge/author-moral--g-critical) ![version](https://img.shields.io/badge/version-1.0.0-blueviolet) ![commits](https://img.shields.io/badge/commits-91-important)
+![chrome-version](https://img.shields.io/badge/chrome--versions-23%2B-informational)
 
 ### Team 708 fork of Team 221's Driver Station Chrome based App for their Gorgon Flex Robot Controller
 
