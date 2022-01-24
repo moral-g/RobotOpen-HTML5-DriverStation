@@ -4,9 +4,11 @@
 
 ## ___Usage___
 
-> A Chrome App for the Driver Station for Robot-Open
-> Updated upstream and all pull requests fufilled
-> Fixed old Gamepad API and handleresp anonymous error
+> + A Chrome App for the Driver Station for Robot-Open
+> 
+> + Updated upstream and all pull requests fufilled
+> 
+> + Fixed old Gamepad API and handleresp anonymous error
 
 ## ___Install___
 
