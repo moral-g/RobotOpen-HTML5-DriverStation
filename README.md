@@ -16,7 +16,7 @@
 
 ### __Method 1 : Zip Folder Download__
 
-> Download the zip file listed under the desired release
+> Download the zip file listed under the desired release or in the code dropdown "Download Zip"
 >
 > Extract the zip
 >
@@ -32,7 +32,7 @@
 
 ### __Method 2 : CRX File Download__
 
-> Download the .crx file listed under the desired release
+> Download the .crx file listed under the desired release or in the code dropdown "Download Zip"
 >
 > Use an external tool to convert the .crx to a zip file
 >
