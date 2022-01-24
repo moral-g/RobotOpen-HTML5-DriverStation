@@ -48,7 +48,7 @@
 
 ## ___Updating___
 
-> You can update by either:
+You can update by either:
 > 
 > Refollow the `Installation` steps for the desired version, load it, then delete the old 
 > version from `chrome://extensions`
