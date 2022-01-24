@@ -48,14 +48,15 @@
 
 ## ___Updating___
 
-> jjj
->
-> In Chrome, version 23 or higher, visit `chrome://extensions`
->
-> Switch on the developer mode toggle
->
-> Select `Update`
->
-> The Chrome app is now update to the your newest download
+> You can update by either:
+> 
+> Refollow the `Installation` steps for the desired version, load it, then delete the old 
+> version from `chrome://extensions`
+> 
+> or 
+> 
+>  Refollow the `Installation` steps for the desired version, but unzip in the same directory 
+>  as the older version, and attempt to refresh by hitting the refresh button on the 
+>  `RobotOpen DS 708` widget next to it's toggle
 
 [//]: # (https://shields.io/)
