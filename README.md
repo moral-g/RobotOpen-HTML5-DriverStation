@@ -1,12 +1,12 @@
 # ___RobotOpen-HTML5-DriverStation___ [![Build Status](https://app.travis-ci.com/moral-g/RobotOpen-HTML5-DriverStation.svg?branch=master)](https://app.travis-ci.com/moral-g/RobotOpen-HTML5-DriverStation)
 
-## Team 708 fork of Team 221's Driver Station Chrome based App for their Gorgon Flex Robot Controller
+### Team 708 fork of Team 221's Driver Station Chrome based App for their Gorgon Flex Robot Controller
 
 ## ___Usage___
 
-> 
->
->
+> A Chrome App for the Driver Station for Robot-Open
+> Updated upstream and all pull requests fufilled
+> Fixed old Gamepad API and handleresp anonymous error
 
 ## ___Install___
 
